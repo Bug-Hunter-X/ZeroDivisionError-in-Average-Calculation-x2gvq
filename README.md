@@ -1,0 +1,2 @@
+# Python ZeroDivisionError Bug
+This repository demonstrates a common error in Python: the `ZeroDivisionError` that can occur when dividing by zero. The `calculate_average` function handles the case of an empty input list, but the original version failed to do so, resulting in a runtime error.  The solution provides improved error handling.
